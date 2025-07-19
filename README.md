@@ -1,6 +1,8 @@
+(https://media.licdn.com/dms/image/v2/D5616AQH75ABmXj5_Ig/profile-displaybackgroundimage-shrink_350_1400/B56ZgiSBDMG4Ac-/0/1752921807129?e=1755734400&v=beta&t=tgp0B9PFkEc8OUoQN3SIfkwteOzGorsSxsFE5S_8Qfg)
+
 ### Hi there 👋, Hey I Am Andur Rahman
 #### I am Full-stack Software Developer
-![I am Full-stack Software Developer](https://media.licdn.com/dms/image/v2/D5616AQH75ABmXj5_Ig/profile-displaybackgroundimage-shrink_350_1400/B56ZgiSBDMG4Ac-/0/1752921807129?e=1755734400&v=beta&t=tgp0B9PFkEc8OUoQN3SIfkwteOzGorsSxsFE5S_8Qfg)
+![I am Full-stack Software Developer]
 
 I love designing intuitive and engaging user experiences that make digital products feel natural and effortless. My journey started with UI/UX design, and now I combine that passion with front-end development to bring ideas to life. I enjoy building interactive applications, optimizing user flows, and continuously learning new technologies.
 
